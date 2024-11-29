@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Role,HireDate,,MetricID,EmployeeID,ProjectCompletionRate,TotalTasksCompleted,AverageTrainingHours,EmployeeSatisfactionScore,PerformanceReviewDate,,TrainingID,EmployeeID,TrainingProgram,TrainingHours,CompletionDate,,FeedbackID,EmployeeID,FeedbackDate,FeedbackType,Comments
+1,Alice Johnson,Engineering,Software Engineer,15-01-2020,,1,1,85,45,20,4.5,01-12-2023,,1,1,Agile Methodologies,10,15-06-2023,,1,1,01-12-2023,Positive,Excellent problem-solving skills.
+2,Bob Smith,Marketing,Marketing Manager,20-03-2019,,2,2,90,50,15,4.7,01-12-2023,,2,2,Digital Marketing,8,20-06-2023,,2,2,01-12-2023,Positive,Great leadership and teamwork.
+3,Carol Williams,HR,HR Specialist,30-05-2021,,3,3,80,30,10,4.2,01-12-2023,,3,3,Employee Relations,6,10-06-2023,,3,3,01-12-2023,Neutral,Needs improvement in time management.
+4,David Brown,Engineering,DevOps Engineer,22-07-2018,,4,4,88,40,25,4.6,01-12-2023,,4,4,Cloud Computing,12,25-06-2023,,4,4,01-12-2023,Positive,Very proactive and reliable.
+5,Eva Green,Sales,Sales Executive,10-11-2022,,5,5,75,35,18,4.1,01-12-2023,,5,5,Sales Techniques,5,30-06-2023,,5,5,01-12-2023,Negative,Needs more engagement with clients.
+6,Frank Miller,Engineering,Data Scientist,15-09-2020,,6,6,92,55,30,4.9,01-12-2023,,6,6,Data Analysis,15,05-06-2023,,6,6,01-12-2023,Positive,Exceptional analytical skills.
+7,Grace Davis,HR,Talent Acquisition,28-02-2021,,7,7,78,28,12,3.8,01-12-2023,,7,7,Recruitment Strategies,8,12-06-2023,,7,7,01-12-2023,Neutral,"Good work ethic, but could improve communication."
+8,Henry Wilson,Marketing,Digital Marketer,12-12-2018,,8,8,85,47,22,4.4,01-12-2023,,8,8,Content Marketing,7,18-06-2023,,8,8,01-12-2023,Positive,Creative approach to marketing challenges.
+9,Irene Martinez,Sales,Account Manager,05-08-2019,,9,9,77,33,20,4,01-12-2023,,9,9,Negotiation Skills,6,28-06-2023,,9,9,01-12-2023,Negative,Needs to work on conflict resolution skills.
+10,John Taylor,Engineering,Project Manager,17-04-2020,,10,10,89,48,28,4.5,01-12-2023,,10,10,Project Management Basics,10,15-06-2023,,10,10,01-12-2023,Positive,Strong project management capabilities.
+11,Laura Allen,HR,HR Coordinator,04-05-2023,,11,11,75,40,17,3.9,01-12-2023,,11,11,Advanced Excel,18,01-07-2023,,11,11,01-12-2023,Neutral,Could improve time management skills.
+12,Mark Young,Sales,Sales Executive,15-11-2021,,12,12,92,36,24,4.8,01-12-2023,,12,12,Leadership Skills,10,25-04-2023,,12,12,01-12-2023,Positive,Shows great initiative and leadership.
+13,Nancy Scott,Marketing,Content Strategist,21-08-2020,,13,13,78,42,10,4.1,01-12-2023,,13,13,Data Science Fundamentals,13,10-08-2023,,13,13,01-12-2023,Negative,Needs improvement in handling client queries.
+14,Oscar Reed,Engineering,Data Scientist,29-04-2023,,14,14,84,44,30,4.3,01-12-2023,,14,14,Customer Service,11,18-05-2023,,14,14,01-12-2023,Positive,Excellent communication and interpersonal skills.
+15,Paul White,HR,HR Specialist,13-07-2022,,15,15,76,29,22,3.7,01-12-2023,,15,15,Agile Methodologies,12,14-06-2023,,15,15,01-12-2023,Neutral,Average client interaction skills.
+16,Rachel Brown,Sales,Account Manager,05-10-2020,,16,16,85,48,28,4.6,01-12-2023,,16,16,Recruitment Strategies,9,07-03-2023,,16,16,01-12-2023,Negative,Should focus more on timely task delivery.
+17,Sam Harris,Marketing,Digital Marketer,19-03-2018,,17,17,81,51,19,4.2,01-12-2023,,17,17,Content Marketing,10,20-02-2023,,17,17,01-12-2023,Positive,Very reliable and detail-oriented.
+18,Tina Turner,Engineering,Software Engineer,30-09-2023,,18,18,91,34,14,4.9,01-12-2023,,18,18,Negotiation Skills,8,05-10-2023,,18,18,01-12-2023,Neutral,Moderate performance; room for growth.
+19,Ursula Blake,HR,Talent Acquisition,11-12-2020,,19,19,83,39,25,4.5,01-12-2023,,19,19,Sales Techniques,14,14-09-2023,,19,19,01-12-2023,Negative,Needs to work on teamwork skills.
+20,Victor Holmes,Sales,Sales Manager,25-06-2019,,20,20,87,33,29,4.6,01-12-2023,,20,20,Digital Marketing,7,27-06-2023,,20,20,01-12-2023,Positive,Consistently meets performance targets.
+21,Wendy Lopez,Marketing,Marketing Manager,18-02-2021,,21,21,90,30,15,4.7,01-12-2023,,21,21,Agile Methodologies,11,25-05-2023,,21,21,01-12-2023,Positive,Excellent problem-solving skills.
+22,Xavier Gordon,Engineering,DevOps Engineer,03-08-2021,,22,22,79,27,18,4,01-12-2023,,22,22,Cloud Computing,15,12-04-2023,,22,22,01-12-2023,Neutral,Needs to be more proactive in team activities.
+23,Yvonne Parker,HR,HR Specialist,29-01-2020,,23,23,85,49,20,4.5,01-12-2023,,23,23,Project Management Basics,9,10-07-2023,,23,23,01-12-2023,Positive,Great leadership and teamwork.
+24,Zach Brooks,Sales,Sales Executive,11-04-2019,,24,24,91,38,14,4.8,01-12-2023,,24,24,Time Management,5,15-06-2023,,24,24,01-12-2023,Negative,Needs improvement in handling client queries.
+25,Amy Bennett,Marketing,Content Strategist,22-03-2022,,25,25,82,41,17,4.3,01-12-2023,,25,25,Customer Service,6,20-03-2023,,25,25,01-12-2023,Positive,Shows great initiative and leadership.
+26,Brian Ross,Engineering,Project Manager,14-09-2020,,26,26,88,46,27,4.6,01-12-2023,,26,26,Sales Techniques,16,10-11-2023,,26,26,01-12-2023,Neutral,Could improve time management skills.
+27,Cindy Evans,HR,Talent Acquisition,27-05-2018,,27,27,76,32,23,3.9,01-12-2023,,27,27,Content Marketing,13,07-04-2023,,27,27,01-12-2023,Positive,Very proactive and reliable.
+28,Dan Murphy,Sales,Account Manager,30-10-2021,,28,28,92,35,24,4.9,01-12-2023,,28,28,Advanced Excel,18,01-05-2023,,28,28,01-12-2023,Negative,Needs to work on conflict resolution skills.
+29,Ella Peterson,Marketing,Digital Marketer,21-11-2022,,29,29,87,50,13,4.8,01-12-2023,,29,29,Data Science Fundamentals,10,21-08-2023,,29,29,01-12-2023,Positive,Exceptional analytical skills.
+30,Fred Campbell,Engineering,Software Engineer,03-12-2021,,30,30,77,25,22,4.1,01-12-2023,,30,30,Cloud Computing,9,10-02-2023,,30,30,01-12-2023,Neutral,"Good work ethic, but could improve communication."
+31,Gina Crawford,HR,HR Specialist,09-01-2019,,31,31,84,52,28,4.5,01-12-2023,,31,31,Leadership Skills,15,15-12-2023,,31,31,01-12-2023,Negative,Needs more engagement with clients.
+32,Harry Butler,Sales,Sales Manager,10-08-2023,,32,32,80,30,26,4.2,01-12-2023,,32,32,Agile Methodologies,14,03-06-2023,,32,32,01-12-2023,Positive,Creative approach to marketing challenges.
+33,Isla Fox,Marketing,Marketing Manager,15-07-2020,,33,33,82,41,21,4.4,01-12-2023,,33,33,Negotiation Skills,7,27-06-2023,,33,33,01-12-2023,Positive,Strong project management capabilities.
+34,Jack Hughes,Engineering,Data Scientist,09-04-2021,,34,34,90,56,16,4.7,01-12-2023,,34,34,Customer Service,8,17-11-2023,,34,34,01-12-2023,Neutral,Moderate performance; room for growth.
+35,Karen Jenkins,HR,Talent Acquisition,19-01-2023,,35,35,79,31,19,4,01-12-2023,,35,35,Recruitment Strategies,6,22-10-2023,,35,35,01-12-2023,Negative,Should focus more on timely task delivery.
+36,Leo Grant,Sales,Account Manager,05-12-2019,,36,36,89,44,12,4.6,01-12-2023,,36,36,Time Management,8,04-03-2023,,36,36,01-12-2023,Positive,Great leadership and teamwork.
+37,Mia Hill,Marketing,Content Strategist,07-05-2022,,37,37,85,40,25,4.5,01-12-2023,,37,37,Data Analysis,12,10-05-2023,,37,37,01-12-2023,Positive,Consistently meets performance targets.
+38,Nick Ward,Engineering,DevOps Engineer,28-06-2023,,38,38,91,47,14,4.9,01-12-2023,,38,38,Project Management Basics,11,22-06-2023,,38,38,01-12-2023,Neutral,Could improve time management skills.
+39,Olivia Miller,HR,HR Coordinator,11-07-2019,,39,39,77,29,20,4.1,01-12-2023,,39,39,Cloud Computing,10,02-04-2023,,39,39,01-12-2023,Positive,Very proactive and reliable.
+40,Pete Sanders,Sales,Sales Executive,18-04-2018,,40,40,80,55,10,4.2,01-12-2023,,40,40,Content Marketing,12,23-07-2023,,40,40,01-12-2023,Negative,Needs to work on teamwork skills.
+41,Quinn Murray,Marketing,Digital Marketer,13-03-2023,,41,41,86,49,15,4.4,01-12-2023,,41,41,Sales Techniques,9,15-05-2023,,41,41,01-12-2023,Positive,Excellent communication and interpersonal skills.
+42,Rose Kelly,Engineering,Project Manager,24-06-2021,,42,42,92,34,26,4.9,01-12-2023,,42,42,Digital Marketing,6,08-08-2023,,42,42,01-12-2023,Neutral,Average client interaction skills.
+43,Sam Adams,HR,HR Specialist,02-11-2020,,43,43,88,33,13,4.6,01-12-2023,,43,43,Leadership Skills,17,12-03-2023,,43,43,01-12-2023,Negative,Needs improvement in handling client queries.
+44,Tara Owens,Sales,Account Manager,12-09-2022,,44,44,76,28,19,4.1,01-12-2023,,44,44,Advanced Excel,13,02-06-2023,,44,44,01-12-2023,Positive,Very reliable and detail-oriented.
+45,Ulysses Hart,Marketing,Marketing Manager,25-08-2021,,45,45,84,53,29,4.5,01-12-2023,,45,45,Customer Service,5,04-09-2023,,45,45,01-12-2023,Positive,Shows great initiative and leadership.
+46,Vicky Long,Engineering,Software Engineer,23-02-2019,,46,46,91,36,21,4.8,01-12-2023,,46,46,Data Analysis,14,05-05-2023,,46,46,01-12-2023,Neutral,"Good work ethic, but could improve communication."
+47,Will Powell,HR,HR Coordinator,15-07-2023,,47,47,83,45,24,4.3,01-12-2023,,47,47,Agile Methodologies,8,13-03-2023,,47,47,01-12-2023,Negative,Should focus more on timely task delivery.
+48,Xena Hudson,Sales,Sales Executive,30-03-2020,,48,48,77,28,16,4,01-12-2023,,48,48,Negotiation Skills,10,20-12-2023,,48,48,01-12-2023,Positive,Excellent problem-solving skills.
+49,Yan Davis,Marketing,Content Strategist,19-11-2018,,49,49,86,38,20,4.5,01-12-2023,,49,49,Project Management Basics,11,05-06-2023,,49,49,01-12-2023,Positive,Great leadership and teamwork.
+50,Zack Morris,Engineering,Data Scientist,27-12-2022,,50,50,93,46,12,4.9,01-12-2023,,50,50,Recruitment Strategies,10,30-06-2023,,50,50,01-12-2023,Neutral,Needs improvement in time management.
